@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#253b6a"/>
+      <stop offset="100%" stop-color="#692d9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg3)" rx="48"/>
+  <circle cx="300" cy="430" r="110" fill="rgba(255,255,255,0.12)"/>
+  <rect x="560" y="160" width="520" height="240" rx="28" fill="rgba(255,255,255,0.10)"/>
+  <text x="600" y="240" font-family="Rajdhani, sans-serif" font-size="72" fill="#fff" font-weight="700">Clutch</text>
+  <text x="600" y="320" font-family="Rajdhani, sans-serif" font-size="44" fill="#fff">Sneaky Plays</text>
+</svg>
